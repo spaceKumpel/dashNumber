@@ -16,5 +16,21 @@ namespace dashNumber
         {
             InitializeComponent();
         }
+        private void button1_Click(object sender, EventArgs e)
+        {
+            if (int.TryParse(textBox1.Text, out int num))
+            {
+                DrawcistercianNum(num);
+            }
+            else
+            {
+                MessageBox.Show("enter number");
+            }
+        }
+        private void DrawcistercianNum(int num)
+        {
+            
+        }
+        
     }
 }
