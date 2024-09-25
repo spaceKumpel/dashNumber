@@ -68,9 +68,9 @@ namespace dashNumber
             // 
             // pictureBox1
             // 
-            this.pictureBox1.Location = new System.Drawing.Point(12, 149);
+            this.pictureBox1.Location = new System.Drawing.Point(233, 140);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(776, 289);
+            this.pictureBox1.Size = new System.Drawing.Size(302, 298);
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
             // 
